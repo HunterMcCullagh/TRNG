@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+C:\Users\hmccu\Desktop\Projects\Random Number Generator\PCB Design\RandomNumberGenerator\Project Outputs for RandomNumberGenerator\Pick Place\Pick Place for RNG_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13-07-25
+Time:       13:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Center-X(mil) Center-Y(mil) Layer    Rotation 
+J1         700.000       111.772       TopLayer 0        
+TP8        370.000       1340.000      TopLayer 0        
+TP7        600.000       1340.000      TopLayer 0        
+TP6        850.000       1340.000      TopLayer 0        
+TP5        950.000       2040.000      TopLayer 0        
+TP4        60.000        1740.000      TopLayer 0        
+TP3        60.000        1580.000      TopLayer 0        
+TP2        60.000        1420.000      TopLayer 0        
+TP1        460.000       2120.000      TopLayer 0        
+U1         675.433       649.213       TopLayer 270      
+Q3         510.945       1660.000      TopLayer 0        
+Q2         814.252       1660.000      TopLayer 0        
+Q1         1138.032      1660.000      TopLayer 0        
+Q7         660.000       1976.968      TopLayer 270      
+Q6         510.945       1490.000      TopLayer 0        
+Q5         813.622       1490.000      TopLayer 0        
+Q4         1138.032      1490.000      TopLayer 0        
+D2         1210.000      1110.000      TopLayer 90       
+D1         1010.000      1110.472      TopLayer 90       
+R8         800.000       1965.000      TopLayer 180      
+R7         580.000       2128.543      TopLayer 270      
+R6         730.000       2130.000      TopLayer 90       
+R5         510.000       1965.000      TopLayer 180      
+R1         660.000       1850.000      TopLayer 180      
+U2         1220.000      170.000       TopLayer 0        
+R15        1270.000      1108.543      TopLayer 90       
+R14        1070.000      1108.543      TopLayer 90       
+R16        580.000       321.457       TopLayer 270      
+J2         210.000       190.000       TopLayer 90       
+Y1         760.000       960.000       TopLayer 180      
+R3         730.000       320.000       TopLayer 90       
+R2         660.000       318.543       TopLayer 90       
+J6         1180.000      680.000       TopLayer 90       
+J4         80.000        2070.000      TopLayer 90       
+J3         80.000        640.000       TopLayer 90       
+J5         75.000        1030.000      TopLayer 270      
+C3         360.000       1520.000      TopLayer 90       
+C2         670.000       1520.000      TopLayer 90       
+C1         996.221       1520.000      TopLayer 90       
+C6         195.000       1030.000      TopLayer 180      
+C5         1030.000      170.000       TopLayer 270      
+C4         1140.000      350.000       TopLayer 0        
+R13        195.000       955.000       TopLayer 0        
+R10        360.000       1630.000      TopLayer 180      
+R9         672.913       1630.000      TopLayer 180      
+R4         990.000       1630.000      TopLayer 180      
+R12        60.000        228.543       TopLayer 90       
+R11        360.000       240.000       TopLayer 270      
+C11        930.000       740.000       TopLayer 90       
+C10        880.000       420.000       TopLayer 180      
+C9         380.000       570.000       TopLayer 0        
+C8         640.000       940.000       TopLayer 270      
+C7         1080.000      760.000       TopLayer 90       

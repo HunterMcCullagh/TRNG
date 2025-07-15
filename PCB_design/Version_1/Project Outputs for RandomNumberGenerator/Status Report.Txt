@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [RNG_pcb.PcbDoc]
+   Generated File[Pick Place for RNG_pcb.txt]
+   Generated File[Pick Place for RNG_pcb.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:37:46 PM On 2025-07-13
